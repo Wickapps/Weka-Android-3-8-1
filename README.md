@@ -13,9 +13,7 @@ If you use the latest stable version of Weka on the desktop to create ML models,
 must use the same version of Weka on the device to ensure compatibility, especially for
 opening serialized pretrained models.
 
-The book resources include the **Weka jar** file you will use for Android projects: **Weka-Android-3-8-1.jar**
-
-The easy approach is to grab the **Weka jar** file and simply add it to your Android Weka projects.
+The book resources include the **Weka jar** file you will use for Android projects: **Weka-Android-3-8-1.jar**. The easy approach is to grab this **Weka jar** file and simply add it to your Android Weka projects. However, if you wish to buid you own Weka library files for Android, you can use this Eclpise project as a template.
 
 # Project References
 
