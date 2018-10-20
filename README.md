@@ -1,10 +1,8 @@
 # Weka-Android-3-8-1
 This repository includes a complete Eclipse project to build a Weka library for Android.
-
 This project is covered in detail in chapter 6 of the [book](https://www.apress.com/us/book/9781484239506):
 
 ![](fig-cover-sm.jpg)
-
 # About the Project
 The most useful way to use the Weka ML library on Android devices is to port the library
 to Android. The task is not trivial, but once completed, a **Weka.jar** file for Android can be used to easily integrate ML into Android apps.
