@@ -14,11 +14,9 @@ If you use the latest stable version of Weka on the desktop to create ML models,
 must use the same version of Weka on the device to ensure compatibility, especially for
 opening serialized pretrained models.
 
-The book resources include the **Weka jar** file you will use for Android projects:
-**Weka-Android-3-8-1.jar**
+The book resources include the **Weka jar** file you will use for Android projects: **Weka-Android-3-8-1.jar**
 
-The easy approach is to grab the **Weka jar** file and simply add it to your Android
-Weka projects.
+The easy approach is to grab the **Weka jar** file and simply add it to your Android Weka projects.
 
 # Project References
 
@@ -28,7 +26,7 @@ Source: **android_data_vis.zip** or **github.com/wickapps/Weka-Android-3-8-1**
 
 Type: **Eclipse Project**
 
-## Buiding a Weka library in Eclipse
+# Buiding a Weka library in Eclipse
 
 If you wish to build your own Weka library for Android, the following steps summarize the initial setup process for porting Weka to Android:
 
@@ -60,7 +58,6 @@ If you wish to build your own Weka library for Android, the following steps summ
   you can successfully build a Weka library for Android. 
 
 Refer to the book for details on resolving all the build issues for the Anroid Weka library.
-
 
 # Eclipse Library Export Screenshot
 ![](fig-weka-android.jpg)
